@@ -1,5 +1,7 @@
 # SQL 生成规则
 
+> 📖 **典型查询示例库**：见 `references/few_shots.md`（15+ 个水情/雨情/设备/预警/巡检/数据治理/大坝安全领域的 NL→SQL 实例，均含 `deleted=0` 与 `tenant_id=1`）。生成 SQL 前优先检索相似示例。
+
 ## NL2SQL 流程
 
 ```
